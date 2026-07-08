@@ -22,9 +22,9 @@ It is designed as a local desktop tool: import images, inspect metadata, edit fi
 MetaLab-1.0-macOS-14.0-universal.dmg
 
 ## System Requirements：
-！！only tested on macOS 26.4！！
+tested on MacOS 26.4 and MacOS 15.1
 Designed for macOS 14.0 or later
-Apple Silicon or Intel Mac (only tested on Apple Silicon！！)
+Apple Silicon or Intel Mac (only tested on Apple Silicon)
 This free DMG build is not notarized by Apple.
 
 ## To open MetaLab for the first time:
