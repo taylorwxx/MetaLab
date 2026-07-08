@@ -41,9 +41,28 @@ MetaLab does not include analytics, advertising tracking, or telemetry.
 GPS and map-related features may use Apple system frameworks such as MapKit, CoreLocation, and geocoding services.
 ExifTool is bundled and runs locally for metadata reading and writing.
 
-# Safety Notice
-Before batch editing important images, keep a backup of the original files.
-Metadata editing can modify files directly when using in-place save mode.
+
+## License
+
+MetaLab is provided as freeware.
+
+You may download and use MetaLab for free, including for commercial use.
+
+MetaLab is provided "as is", without warranty of any kind. The author is not responsible for any file damage, metadata loss, data loss, business loss, or any other damages caused by using MetaLab.
+
+Redistribution, modification, reverse engineering, decompilation, disassembly, resale, sublicensing, or claiming MetaLab as your own is not permitted without written permission.
+
+All rights reserved.
+
+## Privacy And Safety
+
+MetaLab runs locally on your Mac and uses the bundled ExifTool locally to read and write file metadata.
+
+MetaLab does not upload your files, photos, metadata, or editing operations to any server. MetaLab does not remotely process your files in any way.
+
+MetaLab is currently in testing. Some features may not work correctly on every macOS version, device, file format, or metadata structure.
+
+Please back up important files before editing or batch processing. The author is not responsible for any file damage, metadata loss, data loss, or other losses caused by using MetaLab.
 
 # Third-Party Components
 MetaLab includes ExifTool by Phil Harvey.
