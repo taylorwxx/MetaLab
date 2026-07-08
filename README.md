@@ -1,5 +1,5 @@
 # MetaLab
-a MacOS ExifTool GUI
+A MacOS ExifTool GUI.
 MetaLab is a free macOS EXIF editor.
 It is designed as a local desktop tool: import images, inspect metadata, edit fields, apply reusable templates, adjust GPS information, rename files before saving, and export changes either in place or as copies.
 
