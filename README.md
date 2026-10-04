@@ -2,6 +2,7 @@
 A MacOS ExifTool GUI.
 The final step before publishing your photographs: inspect metadata, edit essential details, preview your images, and save individually or in batches.
 It is designed as a local desktop tool.
+MetaLab Professional is a separate AppKit-based application, developed alongside the SwiftUI-based MetaLab, rather than an upgrade or premium edition.
 
 ## Features
 - Import individual images or folders
@@ -21,8 +22,8 @@ It is designed as a local desktop tool.
 -Download the latest DMG from the Releases page.
 
 ## Current release package:
-MetaLab-1.0-macOS-14.0-universal.dmg
-MetaLab Professional 1.0.1 Universal.pkg
+- MetaLab-1.0-macOS-14.0-universal.dmg
+- MetaLab Professional 1.0.1 Universal.pkg
 
 
 
