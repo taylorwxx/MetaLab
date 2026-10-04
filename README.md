@@ -5,7 +5,6 @@ It is designed as a local desktop tool.
 
 ## Features
 - Import individual images or folders
-- 
 - Read and edit EXIF metadata
 - Batch-save metadata changes
 - Save in place or save as copies
